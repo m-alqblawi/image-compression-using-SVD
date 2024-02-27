@@ -35,7 +35,7 @@ Here is a sample output of the grayscale conversion methods:
 
 And here is a sample output of the image compression:
 
-![Image Compression](./images/output.png)
+![Image Compression](./output.png)
 
 ## Contributing
 
